@@ -1,6 +1,6 @@
 <!-- ✨ HEADER ✨ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7B68EE,50:00FFFF,100:9932CC&height=200&section=header&text=SOURAV%20PATIL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20Computer%20Vision&descAlignY=70&descSize=18&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,50:00FFFF,100:9932CC&height=200&section=header&text=SOURAV%20PATIL&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20Computer%20Vision&descAlignY=60&descSize=18&descAlign=50" />
 </p>
 
 <p align="center">
@@ -106,14 +106,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilsourav&bg_color=0d1117&color=7B68EE&line=00FFFF&point=ffffff&area_color=9932CC&area=true&hide_border=true&custom_title=Sourav's%20Contribution%20Graph" width="100%" />
 </p>
 
-<!-- Snake — full width -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patilsourav/patilsourav/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patilsourav/patilsourav/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/patilsourav/patilsourav/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                        ✨  FOOTER  ✨                             -->
@@ -126,5 +118,3 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,50:00FFFF,100:9932CC&height=120&section=footer" />
 </p>
-
-
